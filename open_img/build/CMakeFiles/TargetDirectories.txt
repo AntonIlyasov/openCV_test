@@ -1,0 +1,3 @@
+/home/anton202/openCV_test/open_img/build/CMakeFiles/rebuild_cache.dir
+/home/anton202/openCV_test/open_img/build/CMakeFiles/edit_cache.dir
+/home/anton202/openCV_test/open_img/build/CMakeFiles/open_img.dir
