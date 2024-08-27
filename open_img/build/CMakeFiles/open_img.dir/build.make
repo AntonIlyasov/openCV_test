@@ -116,6 +116,9 @@ open_img: /usr/local/lib/libopencv_wechat_qrcode.so.4.7.0
 open_img: /usr/local/lib/libopencv_xfeatures2d.so.4.7.0
 open_img: /usr/local/lib/libopencv_xobjdetect.so.4.7.0
 open_img: /usr/local/lib/libopencv_xphoto.so.4.7.0
+open_img: /usr/lib/x86_64-linux-gnu/libcurses.so
+open_img: /usr/lib/x86_64-linux-gnu/libform.so
+open_img: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
 open_img: /usr/local/lib/libopencv_shape.so.4.7.0
 open_img: /usr/local/lib/libopencv_highgui.so.4.7.0
 open_img: /usr/local/lib/libopencv_datasets.so.4.7.0
